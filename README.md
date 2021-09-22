@@ -2,6 +2,7 @@
 Detailed note or hints on the Jupyter notebook
 
 Here’s how to format Markdown cells in Jupyter notebooks in the IBM Data Science Experience.
+Some of the codes are not displayed properly. Please use the attached PDF or Python file as reference.
 
 # Headings: 
 Use #s followed by a blank space for notebook titles and section headings:
